@@ -1,4 +1,5 @@
 # word-guess-game-js
+
 Word guess app, built with javascript
 
 ## ScreenShots
